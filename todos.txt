@@ -1,0 +1,6 @@
+prepare
+play chess
+clean your room
+fix a computer
+make a soup
+play football
