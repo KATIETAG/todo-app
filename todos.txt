@@ -2,12 +2,11 @@ prepare
 play chess
 clean your room
 fix a bike
-
 AWS CPProduct Sence practiceSQL codingpython coding practiceapply for job
 
 play football
-
 Master Python
 Master SQL
 sign-up on moms project
 relax
+AWS CP
