@@ -4,3 +4,6 @@ clean your room
 fix a computer
 make a soup
 play football
+Master Python
+Master SQL
+sign-up on moms project
